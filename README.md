@@ -41,7 +41,7 @@ To solve a problem:
 To run all tests in your repository:
 ```sh
 cargo test
-```sh
+```
 To run tests for a specific problem:
 ```sh
 cargo test -- <filename>
